@@ -14,3 +14,5 @@ Cette documentation contient :
 - Configuration
 - Création d'un utilisateur
 - ...
+
+Release date : 18/01/2019
